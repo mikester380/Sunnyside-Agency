@@ -244,7 +244,6 @@ body{
             width: 40%;
             height: 0vh;
             background-color: none;
-            color: $white;
             position: absolute;
             right: 0px;
             top: 40px;
@@ -252,6 +251,7 @@ body{
             p{
                 margin: 0;
                 cursor: pointer;
+                color: $white;
             }
             p:last-of-type{
                 background-color: $white;
